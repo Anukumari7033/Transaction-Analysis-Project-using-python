@@ -64,4 +64,9 @@ Beginner-friendly project to strengthen Python, Pandas, and visualization skills
 ├── scripts/               # Python scripts
 ├── README.md              # Project documentation
 ⚡ Conclusion
+
 This project demonstrates how transaction data can be analyzed to extract meaningful insights. It is a great starting point for beginners in data analysis and financial analytics, providing hands-on experience with Python, data visualization, and basic machine learning.
+
+
+## Author
+ Anu 
